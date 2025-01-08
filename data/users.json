@@ -1,0 +1,16 @@
+{
+  "_id": "ObjectId",
+  "id": "String",
+  "first_name": "String",
+  "last_name": "String",
+  "birthday": "Date",
+  "marital_status": "String",
+  "totalCosts": "Number",
+  "categoriesSummary": {
+    "food": "Number",
+    "health": "Number",
+    "housing": "Number",
+    "sport": "Number",
+    "education": "Number"
+  }
+}

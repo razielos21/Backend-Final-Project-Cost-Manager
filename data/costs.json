@@ -1,0 +1,8 @@
+{
+  "_id": "ObjectId",
+  "user_id": "ObjectId",
+  "description": "String",
+  "sum": "Number",
+  "category": "String",
+  "date": "Date"
+}
